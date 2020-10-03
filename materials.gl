@@ -1,0 +1,55 @@
+/*
+material texture textures/HeavyTankHull1 {
+normal Materials/normal/HeavyTankHull1_Normal.png
+metallic Materials/metal/HeavyTankHull1_Metallic.png
+roughness Materials/rough/HeavyTankHull1_Roughness.png
+ao Materials/ao/HeavyTankHull1_ambient_occlusion.png
+}
+material texture textures/HeavyTankHull2 {
+normal Materials/normal/HeavyTankHull2_Normal.png
+metallic Materials/metal/HeavyTankHull2_Metallic.png
+roughness Materials/rough/HeavyTankHull2_Roughness.png
+ao Materials/ao/HeavyTankHull2_ambient_occlusion.png
+}
+material texture textures/HeavyTankTracks {
+normal Materials/normal/HeavyTankTracks_Normal.png
+metallic Materials/metal/HeavyTankTracks_Metallic.png
+roughness Materials/rough/HeavyTankTracks_Roughness.png
+ao Materials/ao/HeavyTankTracks_ambient_occlusion.png
+}
+
+material texture textures/Tank_Hull_01_BaseColor.png {
+normal Materials/normal/Tank_Hull_01_Normal.png
+metallic Materials/metal/Tank_Hull_01_Metallic.png
+roughness Materials/rough/Tank_Hull_01_Roughness.png
+ao Materials/ao/Tank_Hull_01_ambient_occlusion.png
+}
+
+material texture textures/Tank_Hull_02_BaseColor.png {
+normal Materials/normal/Tank_Hull_02_Normal.png
+metallic Materials/metal/Tank_Hull_02_Metallic.png
+roughness Materials/rough/Tank_Hull_02_Roughness.png
+ao Materials/ao/Tank_Hull_02_ambient_occlusion.png
+}
+
+material texture textures/Tank_Turret_01_BaseColor.png {
+normal Materials/normal/Tank_Turret_01_Normal.png
+metallic Materials/metal/Tank_Turret_01_Metallic.png
+roughness Materials/rough/Tank_Turret_01_Roughness.png
+ao Materials/ao/Tank_Turret_01_ambient_occlusion.png
+}
+
+material texture textures/Tank_Turret_02_BaseColor.png {
+normal Materials/normal/Tank_Turret_02_Normal.png
+metallic Materials/metal/Tank_Turret_02_Metallic.png
+roughness Materials/rough/Tank_Turret_02_Roughness.png
+ao Materials/ao/Tank_Turret_02_ambient_occlusion.png
+}
+
+material texture textures/Tank_treads_BaseColor.png {
+normal Materials/normal/Tank_treads_Normal.png
+metallic Materials/metal/Tank_treads_Metallic.png
+roughness Materials/rough/Tank_treads_Roughness.png
+ao Materials/ao/Tank_treads_ambient_occlusion.png
+}
+*/

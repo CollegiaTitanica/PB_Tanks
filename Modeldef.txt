@@ -1,0 +1,897 @@
+
+Model IFVTreads_01
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_01.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT1 A 0 0
+}
+Model IFVTreads_02
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_02.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT1 B 0 0
+}
+Model IFVTreads_03
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_03.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT1 C 0 0
+}
+Model IFVTreads_04
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_04.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT1 D 0 0
+}
+Model IFVTreads_05
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_05.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT1 E 0 0
+}
+Model IFVTreads_06
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_06.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT1 F 0 0
+}
+Model IFVTreads_07
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_07.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT1 G 0 0
+}
+Model IFVTreads_08
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_08.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT1 H 0 0
+}
+Model IFVTreads_09
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_09.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT1 I 0 0
+}
+Model IFVTreads_10
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_10.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT1 J 0 0
+}
+Model IFVTreads_11
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_11.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT1 K 0 0
+}
+Model IFVTreads_12
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_12.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT1 L 0 0
+}
+Model IFVTreads_13
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_13.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT1 M 0 0
+}
+Model IFVTreads_14
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_14.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT1 N 0 0
+}
+Model IFVTreads_15
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_15.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT1 O 0 0
+}
+Model IFVTreads_16
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_16.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT1 P 0 0
+}
+Model IFVTreads_17
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_17.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT1 Q 0 0
+}
+Model IFVTreads_18
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_18.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT1 R 0 0
+}
+Model IFVTreads_19
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_19.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT1 S 0 0
+}
+Model IFVTreads_20
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_20.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT1 T 0 0
+}
+Model IFVTreads_21
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_21.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT1 U 0 0
+}
+Model IFVTreads_22
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_22.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT1 V 0 0
+}
+Model IFVTreads_23
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_23.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT1 W 0 0
+}
+Model IFVTreads_24
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_24.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT1 X 0 0
+}
+Model IFVTreads_25
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_25.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT1 Y 0 0
+}
+Model IFVTreads_26
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_26.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT1 Z 0 0
+}
+Model IFVTreads_27
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_27.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT2 A 0 0
+}
+Model IFVTreads_28
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_28.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT2 B 0 0
+}
+Model IFVTreads_29
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_29.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT2 C 0 0
+}
+Model IFVTreads_30
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_30.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT2 D 0 0
+}
+Model IFVTreads_31
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_31.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT2 E 0 0
+}
+Model IFVTreads_32
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_32.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT2 F 0 0
+}
+Model IFVTreads_33
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_33.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT2 G 0 0
+}
+Model IFVTreads_34
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_34.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT2 H 0 0
+}
+Model IFVTreads_35
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Treads_35.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFT2 I 0 0
+}
+
+Model TankTreads_01
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_01.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT1 A 0 0
+}
+Model TankTreads_02
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_02.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT1 B 0 0
+}
+Model TankTreads_03
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_03.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT1 C 0 0
+}
+Model TankTreads_04
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_04.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT1 D 0 0
+}
+Model TankTreads_05
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_05.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT1 E 0 0
+}
+Model TankTreads_06
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_06.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT1 F 0 0
+}
+Model TankTreads_07
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_07.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT1 G 0 0
+}
+Model TankTreads_08
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_08.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT1 H 0 0
+}
+Model TankTreads_09
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_09.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT1 I 0 0
+}
+Model TankTreads_10
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_10.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT1 J 0 0
+}
+Model TankTreads_11
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_11.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT1 K 0 0
+}
+Model TankTreads_12
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_12.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT1 L 0 0
+}
+Model TankTreads_13
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_13.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT1 M 0 0
+}
+Model TankTreads_14
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_14.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT1 N 0 0
+}
+Model TankTreads_15
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_15.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT1 O 0 0
+}
+Model TankTreads_16
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_16.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT1 P 0 0
+}
+Model TankTreads_17
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_17.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT1 Q 0 0
+}
+Model TankTreads_18
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_18.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT1 R 0 0
+}
+Model TankTreads_19
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_19.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT1 S 0 0
+}
+Model TankTreads_20
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_20.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT1 T 0 0
+}
+Model TankTreads_21
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_21.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT1 U 0 0
+}
+Model TankTreads_22
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_22.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT1 V 0 0
+}
+Model TankTreads_23
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_23.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT1 W 0 0
+}
+Model TankTreads_24
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_24.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT1 X 0 0
+}
+Model TankTreads_25
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_25.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT1 Y 0 0
+}
+Model TankTreads_26
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_26.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT1 Z 0 0
+}
+Model TankTreads_27
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_20.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT2 A 0 0
+}
+Model TankTreads_28
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_28.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT2 B 0 0
+}
+Model TankTreads_29
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_29.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT2 C 0 0
+}
+Model TankTreads_30
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_30.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT2 D 0 0
+}
+Model TankTreads_31
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_31.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT2 E 0 0
+}
+Model TankTreads_32
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_32.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT2 F 0 0
+}
+Model TankTreads_33
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_33.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT2 G 0 0
+}
+Model TankTreads_34
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_34.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT2 H 0 0
+}
+Model TankTreads_35
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Treads_35.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TKT2 I 0 0
+}
+
+//////////////////
+Model HeavyTankTreads_01
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_01.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT1 A 0 0
+}
+Model HeavyTankTreads_02
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_02.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT1 B 0 0
+}
+Model HeavyTankTreads_03
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_03.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT1 C 0 0
+}
+Model HeavyTankTreads_04
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_04.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT1 D 0 0
+}
+Model HeavyTankTreads_05
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_05.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT1 E 0 0
+}
+Model HeavyTankTreads_06
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_06.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT1 F 0 0
+}
+Model HeavyTankTreads_07
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_07.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT1 G 0 0
+}
+Model HeavyTankTreads_08
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_08.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT1 H 0 0
+}
+Model HeavyTankTreads_09
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_09.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT1 I 0 0
+}
+Model HeavyTankTreads_10
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_10.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT1 J 0 0
+}
+Model HeavyTankTreads_11
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_11.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT1 K 0 0
+}
+Model HeavyTankTreads_12
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_12.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT1 L 0 0
+}
+Model HeavyTankTreads_13
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_13.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT1 M 0 0
+}
+Model HeavyTankTreads_14
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_14.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT1 N 0 0
+}
+Model HeavyTankTreads_15
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_15.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT1 O 0 0
+}
+Model HeavyTankTreads_16
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_16.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT1 P 0 0
+}
+Model HeavyTankTreads_17
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_17.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT1 Q 0 0
+}
+Model HeavyTankTreads_18
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_18.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT1 R 0 0
+}
+Model HeavyTankTreads_19
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_19.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT1 S 0 0
+}
+Model HeavyTankTreads_20
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_20.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT1 T 0 0
+}
+Model HeavyTankTreads_21
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_21.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT1 U 0 0
+}
+Model HeavyTankTreads_22
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_22.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT1 V 0 0
+}
+Model HeavyTankTreads_23
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_23.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT1 W 0 0
+}
+Model HeavyTankTreads_24
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_24.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT1 X 0 0
+}
+Model HeavyTankTreads_25
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_25.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT1 Y 0 0
+}
+Model HeavyTankTreads_26
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_26.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT1 Z 0 0
+}
+
+Model HeavyTankTreads_27
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_26.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT2 A 0 0
+}
+Model HeavyTankTreads_28
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_28.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT2 B 0 0
+}
+Model HeavyTankTreads_29
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_29.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT2 C 0 0
+}
+Model HeavyTankTreads_30
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_30.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT2 D 0 0
+}
+Model HeavyTankTreads_31
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_31.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT2 E 0 0
+}
+Model HeavyTankTreads_32
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_32.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT2 F 0 0
+}
+Model HeavyTankTreads_33
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_33.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT2 G 0 0
+}
+Model HeavyTankTreads_34
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_34.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT2 H 0 0
+}
+Model HeavyTankTreads_35
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTankTreads_35.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTT2 I 0 0
+}
+
+/////////////////////////////
+Model IFVHull
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Hull.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFVH A 0 0
+}
+Model IFVTurret
+{
+Path "Models/NewVehicles/IFV"
+Model 0 "IFV_Turret.obj"
+scale 6 6 6
+AngleOffset 90
+frameindex IFVT A 0 0
+}
+
+Model TankHull
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Hull.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TNKH A 0 0
+}
+Model TankTurret
+{
+Path "Models/NewVehicles/Tank"
+Model 0 "Tank_Turret.obj"
+scale 8 8 8
+AngleOffset 90
+frameindex TNKT A 0 0
+}
+
+Model HeavyTankHull
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTank_Hull.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTNH A 0 0
+}
+Model HeavyTankTurret
+{
+Path "Models/NewVehicles/HeavyTank"
+Model 0 "HeavyTank_Turret.obj"
+scale 11 11 11
+AngleOffset 90
+frameindex HTNT A 0 0
+}

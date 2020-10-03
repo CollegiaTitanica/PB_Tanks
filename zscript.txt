@@ -1,0 +1,6 @@
+//New Vehicles
+#include "zscript/NewVehicles/IFV.txt"
+#include "zscript/NewVehicles/HeavyTank.txt"
+#include "zscript/NewVehicles/Tank.txt"
+#include "zscript/NewVehicles/Vehicle_hitboxes.txt"
+#include "zscript/NewVehicles/quaternion.zs"
