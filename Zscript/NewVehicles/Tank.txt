@@ -1232,7 +1232,7 @@ Class AnnihilatorLooker : RailLooker
 	States
 	{
 	Spawn:
-		TNT1 A 1 NoDelay A_LookEx(0,0,2524,0,60);
+		TNT1 A 1 NoDelay A_LookEx(0,0,2524,0,120);
 		Stop;
 	See:
 		TNT1 A 0 {	A_FaceTarget();
@@ -1988,9 +1988,10 @@ Class AnnihilatorRailShot : FastProjectile
   Death:
 		TNT1 A 0 
 		{
-		A_SpawnItemEx("AnnihilatorLooker",0,0,0,0,0,0, 180,SXF_NOCHECKPOSITION);
-		A_SpawnItemEx("AnnihilatorLooker",0,0,0,0,0,0, 45,SXF_NOCHECKPOSITION);
-		A_SpawnItemEx("AnnihilatorLooker",0,0,0,0,0,0,-45,SXF_NOCHECKPOSITION);
+		A_SpawnItemEx("AnnihilatorLooker",0,0,0,0,0,0, -240,SXF_NOCHECKPOSITION);
+		A_SpawnItemEx("AnnihilatorLooker",0,0,0,0,0,0, 240,SXF_NOCHECKPOSITION);
+		A_SpawnItemEx("AnnihilatorLooker",0,0,0,0,0,0, 120,SXF_NOCHECKPOSITION);
+		A_SpawnItemEx("AnnihilatorLooker",0,0,0,0,0,0, -120,SXF_NOCHECKPOSITION);
 		A_BFGSpray("AnnihilatorEffect", numrays:15, ang:360, distance:450, vrange:42, defdamage:random(90,180),flags:BFGF_MISSILEORIGIN);
 		}
 		TNT1 AAAA 0 A_SpawnItemEx("PurplePlasmaParticleSpawner", 0, 0, 0, 0, 0, 0, 0, 128);
