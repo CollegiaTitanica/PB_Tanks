@@ -408,6 +408,9 @@ Class IFV: SwitchableDecoration
 	damagefactor "TankShell", 0.6;
 	damagefactor "Explosive", 0.6;
 	damagefactor "HeavyTankMachineGun", 0.0;
+	damagefactor "Cut", 0.0;
+	damagefactor "Nailgun", 0.0;
+	damagefactor "Eat", 0.0;
 	}
 		IFVHull ifva;
 
@@ -669,6 +672,9 @@ Class PlayerIFV : PlayerPawn
 	damagefactor "TankShell", 0.6;
 	damagefactor "Explosive", 0.6;
 	damagefactor "HeavyTankMachineGun", 0.0;
+	damagefactor "Cut", 0.0;
+	damagefactor "Nailgun", 0.0;
+	damagefactor "Eat", 0.0;
 	}
 	
 			IFVHull IFVA;

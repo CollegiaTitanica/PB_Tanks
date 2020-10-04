@@ -418,6 +418,9 @@ Class HeavyTank: SwitchableDecoration
 	damagefactor "TankShell", 0.3;
 	damagefactor "Explosive", 0.4;
 	damagefactor "HeavyTankMachineGun", 0.0;
+	damagefactor "Cut", 0.0;
+	damagefactor "Nailgun", 0.0;
+	damagefactor "Eat", 0.0;
 	}
 		HeavyTankHull hva;
 		
@@ -671,6 +674,9 @@ Class PlayerHeavyTank : PlayerPawn
 	damagefactor "TankShell", 0.3;
 	damagefactor "Explosive", 0.4;
 	damagefactor "HeavyTankMachineGun", 0.0;
+	damagefactor "Cut", 0.0;
+	damagefactor "Nailgun", 0.0;
+	damagefactor "Eat", 0.0;
 	}
 	
 	
